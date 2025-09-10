@@ -1,0 +1,152 @@
+Lettuce
+According to my memory, this is Suki's favourite snack!
+wongMansion
+140
+68
+40
+30
+9
+Calendar
+Wait a second! On Saturday, December 25, the grocery store was closed for the holiday!
+wongMansion
+210
+303
+40
+43
+1
+Socks
+Who would wear such colourful socks? These socks must be the brothers! They love wearing and maybe have the habit of tossing them around the house!
+wongMansion
+360
+385
+50
+50
+8
+Sports balls
+This family must love playing sports. I am guessing these are all the sports equipments the boys uses. Why is there more cat fur on this?
+wongMansion
+409
+70
+70
+55
+7
+Thermometer
+Seems like someone was sick! 
+wongMansion
+493
+143
+15
+20
+3
+Video games
+Didn't the boys say they played video games upstairs? Why are all the controllers down here? Wait there's more cat fur!
+wongMansion
+136
+490
+53
+50
+12
+Trash
+Stinky trash laying around. There's cat food, soda, and soup???
+wongMansion
+288
+92
+113
+53
+4
+Picture
+Woah what a lovely photo? Wait is that a jigglypuff clip that Ms.Wong is wearing? It seems that the boys love playing soccer anywhere they go!
+wongMansion
+560
+270
+50
+45
+6
+Plant
+Oh no Ms.Wong's favourite plant is knocked over! Wait why are there cat prints and shoe prints? The shoe is size 8 in men? Did Suki try wearing these shoes?
+wongMansion
+498
+320
+188
+50
+10 
+Jigglypuff
+Is this Suki's favourite toy?
+wongMansion
+545
+518
+28
+28
+5
+Cat toys
+What a mess! Suki's toys are all over the place!
+wongMansion
+470
+514
+60
+40
+11
+Broken Plates
+OMG all of Ms.Wong's plates are broken but wait why is there a finger nail next to one of them?
+wongMansion
+526
+95
+66
+37
+2
+Receipt
+Somebody's grocery receipt...
+library
+100
+440
+80
+80
+7
+Phone
+Somebody's phone is on the table. We can go through the phone's pictures. I see Jaja fighting in a WWE match! I also see Gaga in the science lab and Wawa in the forensic lab! Oh there's the 4 fingerprints too...Maybe there's something in the pictures...
+library
+122
+212
+43
+48
+1
+Notebook
+This is Fafa's notebook! What notes does she have? 
+library
+605
+212
+50
+50
+3
+Arsenic
+This white powder is arsenic powder. Last time I checked, this is super deadly and can cause someone to cough out blood!
+library
+610
+453
+38
+38
+2
+Fingerprint
+Whose fingerprint could this belong to?
+library
+78
+345
+20
+30
+6
+Book
+This is a book about purple juice spatters. Maybe this will help?
+library
+335
+285
+50
+30
+5
+Purple Juice
+Purple juice spatter was found around Fafa's body!
+library
+650
+200
+290
+198
+4
