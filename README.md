@@ -21,5 +21,4 @@ __OOP, sorting algorithms, and interfaces were implemented.__ Use the secretBook
 
 <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/98cda5ca-f6f0-4db3-b02b-bd27be640c98" />
 
-
-
+Click the screen to skip dialogue when interviewing the suspects (if needed). Time to complete cases are tracked and the further improving the timed score is encouraged. 
