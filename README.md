@@ -1,6 +1,6 @@
 # Who-The-Opp
-This is a single player mystery, detective, adventure game built using Java. Be the detective to figure who the guilty person is for each case using the hints around the room. 
-Time is limited, but you are allowed to investigate the suspects and keep track of the hints found through a secret book. (Made for ICS4U final project).
+This is a single player mystery, adventure game built using Java. Be the detective and figure out who the guilty person is for each case!
+Time is limited, but use the hints around the room, investigate the suspects, and keep track of the evidence you found through a secret book. (Made for ICS4U final project).
 
 ---
 Sped Up Demo 
